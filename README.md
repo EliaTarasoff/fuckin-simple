@@ -56,7 +56,7 @@ Everything about your character is assumed heroic - some sections even mention t
 In this system however, you can play whatever types of characters you want.
 To facilitate this, penalties may be traded for your character, at the same point-value as bonuses.
 So, a person who wants to play a mighty barbarian who is strong (very broad),
-brave (fairly broad), and skilled with an axe (a typical "skill),
+brave (fairly broad), and skilled with an axe (a typical "skill"),
 but doesn't quite have enough points, might put their Intelligence (very broad)
 at -2 to get points refunded to spend on the rest of their character.
 It is recommended not to have skills go below -3, and broad skill-groups or approaches below -2.
