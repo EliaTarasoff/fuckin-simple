@@ -1,0 +1,144 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html {
+    width: 850px;
+    height: 1100px;
+    padding: 25px;
+}
+
+.box-system-name-description {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.system-name {
+    display: inline-flex;
+    flex-direction: row;
+}
+.system-name--title {
+    font-size: 20px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.system-name--subtitle {
+    font-size: 15px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.box-system-name-description--side {
+    display: inline-flex;
+    flex-direction: column;
+    width: 600px;
+}
+.name {
+  width: 500px;
+  height: 30px;
+  border: 5px solid black;
+}
+.description {
+  width: 500px;
+  height: 150px;
+  border: 5px solid black;
+}
+
+.box-flavor {
+    display: flex;
+    flex-direction: column;
+}
+.flavor {
+  width: 800px;
+  height: 30px;
+  border: 5px solid black;
+}
+
+.box-fatigue-fractures-fuck {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.check-box {
+  width: 70px;
+  height: 70px;
+  display: inline-flex;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 60px;
+}
+.fuck-that {
+  width: 210px;
+  height: 210px;
+  border: 5px solid black;
+}
+
+.fnumbers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 800px;
+    height: 210px;
+}
+.fnumber {
+  width: 250px;
+  height: 30px;
+  border: 5px solid black;
+}
+
+.label-and-thing {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.label-text {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/*
+cut-corners
+http://inovex.ca/how-to-cut-corners-without-cutting-corners/
+
+TODO: make the size of the cut a parameter:
+https://stackoverflow.com/questions/17893823/how-to-pass-parameters-to-css-classes
+*/
+.cut-corner-content {
+    height: 100%;
+}
+.cut-corner-container {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    padding: 0;
+    margin: 0;
+
+    background-color: black;
+    color: white;
+}
+.cut-corner-top-left {
+    box-sizing: border-box;
+    border-right: 10px solid black;
+    border-top: 10px solid white;
+    border-bottom: 0;
+    border-left: 0;
+    height: 30px;
+}
+.cut-corner-bottom-right {
+    box-sizing: border-box;
+    border-left: 10px solid black;
+    border-bottom: 10px solid white;
+    border-right: 0;
+    border-top: 0;
+    height: 30px;
+}
