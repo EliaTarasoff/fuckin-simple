@@ -43,3 +43,22 @@ players should start with about 10-20 points to spend.
 More gritty games would have lower starting economies, and more adventurous
 games would have higher starting economies, as well as more broadly-defined skills or
 groups of skills.
+
+# It's All Relative
+Note, that all skills / stunts / approaches are relative to a +0 "boring guy" or "average gal".
+What "average" means will be specific to your game and setting.
+Generally, a character that has no bonuses at all, would be the typical Joe Schmoe of yoru world,
+neither overweight, dim-witted, or weak, nor lean, strong, or clever - a completely forgettable person,
+unsuitable for adventures of any kind!
+
+Note that the base Fate rules are all written to have powerful bonuses, and mighty skills.
+Everything about your character is assumed heroic - some sections even mention this explicitly!
+In this system however, you can play whatever types of characters you want.
+To facilitate this, penalties may be traded for your character, at the same point-value as bonuses.
+So, a person who wants to play a mighty barbarian who is strong (very broad),
+brave (fairly broad), and skilled with an axe (a typical "skill),
+but doesn't quite have enough points, might put their Intelligence (very broad)
+at -2 to get points refunded to spend on the rest of their character.
+It is recommended not to have skills go below -3, and broad skill-groups or approaches below -2.
+Game-masters are also encouraged to invoke those character-penalties just like Aspects,
+to create interesting story-beats and drama!
