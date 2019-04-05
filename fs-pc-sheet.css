@@ -21,6 +21,11 @@ html {
 .system-name {
     display: inline-flex;
     flex-direction: row;
+    background-image: url('spiral-galaxy.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    mix-blend-mode: difference;
 }
 .system-name--title {
     font-size: 20px;
