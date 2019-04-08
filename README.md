@@ -62,3 +62,9 @@ at -2 to get points refunded to spend on the rest of their character.
 It is recommended not to have skills go below -3, and broad skill-groups or approaches below -2.
 Game-masters are also encouraged to invoke those character-penalties just like Aspects,
 to create interesting story-beats and drama!
+
+# Luck
+Luck is a special skill/stun/thing, which is almost as good as a skill at the same level.
+So, it'll cost 3/4 the normal cost for that level (specific skill, group of skills, etc).
+How it works, is yu add one extra die per level, and reroll the lowest L dice *once*.
+If you want to make an unlucky character, reroll the high dice instead of the low.
