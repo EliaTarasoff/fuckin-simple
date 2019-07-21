@@ -95,27 +95,27 @@ html {
   border: 5px solid black;
 }
 
-.fnumbers {
+.numbers {
     display: flex;
     flex-direction: row;
     width: 800px;
     height: 250px;
 }
-.fnumbers-column {
+.numbers-column {
     display: flex;
     flex-direction: column;
 
     flex-grow: 1;
     border-left: 5px solid black;
 }
-.fnumbers-column:last-of-type {
+.numbers-column:last-of-type {
     border-right: 5px solid black;
 }
-.fnumber {
+.number {
     flex-grow: 1;
     border-top: 5px solid black;
 }
-.fnumber:last-of-type {
+.number:last-of-type {
     border-bottom: 5px solid black;
 }
 
